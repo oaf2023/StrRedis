@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 from folium import Popup
 
 # Configuración de la página
-st.set_page_config(page_title="Dashboard de Óptica", layout="wide")
+#st.set_page_config(page_title="Dashboard de Óptica", layout="wide")
 
 # Título y subtítulo
 st.title("Dashboard de Óptica")
