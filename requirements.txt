@@ -1,4 +1,6 @@
 streamlit 
-redis
-pandas 
-streamlit-aggrid
+pandas
+numpy 
+folium
+streamlit_folium
+matplotlib
